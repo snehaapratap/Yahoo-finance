@@ -1,0 +1,4 @@
+Ticker,Rows_Before,Rows_After_Dedup,Missing_Before_Fill,Missing_After_Fill
+AAPL,797,797,0,0
+MSFT,797,797,0,0
+GOOGL,797,797,0,0
