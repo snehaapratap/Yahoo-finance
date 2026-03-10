@@ -121,10 +121,3 @@ Missing values are handled in this order:
 3. Backward fill (`bfill`)
 
 This ensures continuity for rolling computations while minimizing data loss.
-
-## Suggested GitHub Submission Checklist
-
-- Include all source files (`quant_analysis.py`, `README.md`, `requirements.txt`)
-- Include generated output folders (`figures/`, `reports/`)
-- Include either downloaded CSVs or the script to regenerate them
-- Add a short note on chosen tickers and date range in your repository description
